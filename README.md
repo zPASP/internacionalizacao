@@ -90,7 +90,7 @@ O arquivo .PO tem que ser copiado e colado dentro da pasta padrão onde ele ser�
 |--|--|
 |
 
- - [ ] TER UM APP "EM PYTHON"
+ - [X] TER UM APP "EM PYTHON"
  - [ ] FAZER O IMPORT DA BIBLIOTECA E CRIAR UM OBJETO
  - [ ] FAZER AS MARCAÇÕES DAS STRINGS COM ***_***
  - [ ] CRIAR O ARQUIVO .PO
